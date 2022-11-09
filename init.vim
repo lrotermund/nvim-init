@@ -19,6 +19,7 @@ Plug 'https://github.com/mg979/vim-visual-multi' " Multi Cursor
 Plug 'https://github.com/Xuyuanp/nerdtree-git-plugin' " NERDTree git support
 Plug 'https://github.com/sirver/UltiSnips' " Snippet-Engine
 Plug 'https://github.com/honza/vim-snippets' " Snippets
+Plug 'https://github.com/hashivim/vim-terraform' " terraform syntax
 
 set encoding=UTF-8
 
